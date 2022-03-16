@@ -1,0 +1,10 @@
+N:\New folder (2)\Parser-Template - Studs Versions\JASON_Compiler\bin\Debug\JASON_Compiler.exe.config
+N:\New folder (2)\Parser-Template - Studs Versions\JASON_Compiler\bin\Debug\JASON_Compiler.exe
+N:\New folder (2)\Parser-Template - Studs Versions\JASON_Compiler\bin\Debug\JASON_Compiler.pdb
+N:\New folder (2)\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\JASON_Compiler.Form1.resources
+N:\New folder (2)\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\JASON_Compiler.Form2.resources
+N:\New folder (2)\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\JASON_Compiler.Properties.Resources.resources
+N:\New folder (2)\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_COMPILER.csproj.GenerateResource.cache
+N:\New folder (2)\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_COMPILER.csproj.CoreCompileInputs.cache
+N:\New folder (2)\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\JASON_Compiler.exe
+N:\New folder (2)\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\JASON_Compiler.pdb
